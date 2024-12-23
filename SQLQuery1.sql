@@ -28,3 +28,5 @@ select D.CustomerKey,
 		where F.ProductKey='310'
 end;
 
+select * sales
+
